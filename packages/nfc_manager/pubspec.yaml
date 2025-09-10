@@ -13,9 +13,9 @@ dependencies:
     sdk: flutter
   ndef_record: #^1.2.1
     git: 
-    url: https://github.com/pai-r-k-kamada/flutter-nfc-manager # ←フォークしてできたリポジトリ
-    #ref: v4.0.2 # ←ブランチ
-    path: packages/ndef_record/ # ←パス 
+      url: https://github.com/pai-r-k-kamada/flutter-nfc-manager # ←フォークしてできたリポジトリ
+      #ref: v4.0.2 # ←ブランチ
+      path: packages/ndef_record/ # ←パス 
 
 dev_dependencies:
   flutter_lints: ^5.0.0
